@@ -1,4 +1,3 @@
-# PlantDrops.github.io
 <html>
   <head>
     <style>
@@ -19,3 +18,4 @@
     <h2>Welcome to Adam's website, hope you have fun!</h2>
   </body>
 </html>
+
